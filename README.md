@@ -1,1 +1,1 @@
-# kb8-kb8p-firmware
+# kb8-firmware-pair-tool
